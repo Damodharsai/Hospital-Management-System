@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Management System - P. Damodhar Sai
 Hospital Management System using MySQL, Php and Bootstrap
 
 
